@@ -32,7 +32,7 @@ Make sure you generate encodings for newly placed image by calling, encode_singl
  <img src = "./SampleOutput/Prasanna.jpg"/>
  
  <p>2. </p>
- <img src = "./SampleOutput/Gayle.jpg"/>
+ <img src = "./SampleOutput/Galye.jpg"/>
  
  <p>3. </p>
  <img src = "./SampleOutput/Obama.jpg"/>
